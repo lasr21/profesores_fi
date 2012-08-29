@@ -1,0 +1,318 @@
+</center><br><center><a id='encuesta' class='submit' clave='1423' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center></br></br>
+<center>
+<font size="2">* El profesor impartirá un tema en inglés</font>
+</center>
+<br>
+<br>
+<center>
+	<h3> Grupos con vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>1</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">FIGUEROA PAEZ JOSE ALEJANDRO ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>A303</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>2</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">RUIZ MEDINA JESUS EDMUNDO M.I.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>I203</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>4</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">* HERNANDEZ HERNANDEZ ROGELIO REGINO M.I.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J209</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>6</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">ONTIVEROS JUNCO JORGE ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J107</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>7</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">GARCIA BURGOS SALVADOR ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J105</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>9</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+
+	                              <td><font size="1">VARGAS ESPINOZA DE LOS MONTEROS ALEJANDRA M.E.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>I302</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>10</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+
+	                              <td><font size="1">MEJIA RAMIREZ HECTOR RAUL M.I.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>I202</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>12</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+
+	                              <td><font size="1">RAMIREZ Y VILLA ANDRES BASILIO ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>A108</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>14</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">SANDOVAL RODRIGUEZ JOSE HORACIO M.I.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J105</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>3</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>915</center></font></td>
+
+	                              <td><font size="1">PINILLA MORAN VICTOR DAMIAN MA.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J102</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>5</center></font></td>
+	                              <td><font size="1"><center>915</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">ARGANIS JUAREZ MARITZA LILIANA DRA.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J205</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>8</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1345</center></font></td>
+
+	                              <td><font size="1">PINEDA FIGUEROA CARLOS ALBERTO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J205</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>11</center></font></td>
+	                              <td><font size="1"><center>1530</center></font></td>
+	                              <td><font size="1"><center>1745</center></font></td>
+
+	                              <td><font size="1">GARCIA CASANOVA VERONICA HIKRA ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J207</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1423</font></td>
+	                              <td><font size="1">ANALISIS NUMERICO</font></td>
+	                              <td><font size="1"><center>13</center></font></td>
+	                              <td><font size="1"><center>1745</center></font></td>
+	                              <td><font size="1"><center>2000</center></font></td>
+
+	                              <td><font size="1">GONZALEZ CARDEL MARIO FRANCISCO MC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>J107</center></font></td>
+
+	                          </tr></table> 
+</br></br>	<center> <span class="Estilo4">Página generada en <strong>0.0139</strong> segundos</span></center>
+</center><br><center><a id='encuesta2' class='submit' clave='1423' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center>
+
+<script language="javascript">
+$('#encuesta').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+$('#encuesta2').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+
+</script>

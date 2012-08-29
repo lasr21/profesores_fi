@@ -1,0 +1,185 @@
+</center><br><center><a id='encuesta' class='submit' clave='230' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center></br></br>
+<center>
+<font size="2">* El profesor impartirá un tema en inglés</font>
+</center>
+<br>
+<br>
+<center>
+	<h3> Grupos sin vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>1</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">ESQUIVEL AVILA JOSE LUIS ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>LAB.</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>2</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">TELLEZ GRANADOS JOSE FRANCISCO M.I.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A304</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>3</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">CID ROLLAN JOSE MARIA ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A208</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>4</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">GALLEGOS SUAREZ VICTORIANO ARMANDO M.I.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A211</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>5</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>915</center></font></td>
+
+	                              <td><font size="1">TRIGOS SUAREZ JOSE LUIS M.I.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A211</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>6</center></font></td>
+	                              <td><font size="1"><center>1815</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">GARDUÑO CHAVEZ JOSUE ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A209</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">230</font></td>
+	                              <td><font size="1">DISEÑO ESTRUCTURAL</font></td>
+	                              <td><font size="1"><center>7</center></font></td>
+	                              <td><font size="1"><center>1945</center></font></td>
+	                              <td><font size="1"><center>2200</center></font></td>
+
+	                              <td><font size="1">CHACON GARCIA FRANCISCO DE JESUS ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A207</center></font></td>
+	                          </tr></table> 
+</br></br>	<center> <span class="Estilo4">Página generada en <strong>0.0134</strong> segundos</span></center>
+</center><br><center><a id='encuesta2' class='submit' clave='230' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center>
+
+<script language="javascript">
+$('#encuesta').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+$('#encuesta2').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+
+</script>

@@ -1,0 +1,83 @@
+</center><br><center><a id='encuesta' class='submit' clave='983' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center></br></br>
+<center>
+<font size="2">* El profesor impartirá un tema en inglés</font>
+</center>
+<br>
+<br>
+<center>
+	<h3> Grupos sin vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">983</font></td>
+	                              <td><font size="1">DESARROLLO HABILlDADES DIRECTIVAS</font></td>
+	                              <td><font size="1"><center>1</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">MORAN MOGUEL CARLOS ALFONSO M.C.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>C403</center></font></td>
+	                          </tr></table> 
+</br></br>	<center> <span class="Estilo4">Página generada en <strong>0.0137</strong> segundos</span></center>
+</center><br><center><a id='encuesta2' class='submit' clave='983' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center>
+
+<script language="javascript">
+$('#encuesta').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+$('#encuesta2').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+
+</script>

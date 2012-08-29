@@ -1,0 +1,800 @@
+</center><br><center><a id='encuesta' class='submit' clave='1107' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center></br></br>
+<center>
+<font size="2">* El profesor impartirá un tema en inglés</font>
+</center>
+<br>
+<br>
+<center>
+	<h3> Grupos con vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1103</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">MARTINEZ ROSAS JESICA LIC</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>I104</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1113</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">MARAVILLAS ESTRADA VIRGINIA LIC.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>I201</center></font></td>
+
+	                          </tr></table> <h3> Grupos sin vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1104</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">SALAZAR CAMPOS MARIA MARGARITA ZAYIL M.C.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J207</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1106</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">DEL MORAL NIETO MARTHA ROSA MES.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1109</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">MANZANERA SILVA NORMA AIDA MTRA.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I203</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1110</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">PADILLA HERNANDEZ MARIA DEL ROCIO LIC.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J211</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1112</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">MUCHARRAZ GONZALEZ OLGA MARIA DEL CARMEN DRA:</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I202</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1115</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">ALARCON AVILA EDUARDO ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I205</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1116</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">TRUJILLO PRIEGO ALDO FERNANDO LIC</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J208</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1119</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">RAMIRO ESTEBAN VICTORIA MTRA.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J210</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1120</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+
+	                              <td><font size="1">RAMIRO ESTEBAN VICTORIA MTRA.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I204</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1121</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+
+	                              <td><font size="1">* LEON MARTINEZ MARIA DE LOURDES LIC.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1126</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+
+	                              <td><font size="1">GARCIA CRUZ JUAN CARLOS MTRO.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I102</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1127</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+
+	                              <td><font size="1">RAMIRO ESTEBAN VICTORIA MTRA.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1128</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">CRUZ  HUGO ULISES LIC.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I204</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1129</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">GOMEZ CAAMAL KITTY DEL SOCORRO LIC.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I202</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">PEREZ RUIZ CLAUDIA MARGARITA LIC.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I103</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1132</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">GORDILLO TORRES JULIO ENRIQUE MTRO</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J105</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1133</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">ANGELES MANCILLA ARTURO LIC.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J104</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1139</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">MARTINEZ ROSAS JESICA LIC</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I102</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1140</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">* CHAVEZ SANDOVAL MARIA DE LOURDES LIC.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1141</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">ALARCON AVILA EDUARDO ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I106</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1101</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">ROSALES MUÑOZ MARIA DEL REFUGIO LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J108</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1102</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">COVARRUBIAS PEREZ MARIA DE LA LUZ LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I103</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1105</center></font></td>
+	                              <td><font size="1"><center>930</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">CABRERA CAMARILLO VERONICA ANGELICA LIC</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I102</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1107</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">GOMEZ RODRIGUEZ JOSE RENE LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1108</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">VARELA JUÁREZ JUAN LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J105</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1111</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">RIOS DORDELLY CLELIA MARIA SARA DRA.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J104</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1114</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">* LEON MARTINEZ MARIA DE LOURDES LIC.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J106</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1117</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">GARCIA Y COLOME ANA GEORGINA MTRA</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I105</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1118</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">MORENO ALDANA LIZBETH IRIS LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I104</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1123</center></font></td>
+	                              <td><font size="1"><center>1330</center></font></td>
+	                              <td><font size="1"><center>1500</center></font></td>
+
+	                              <td><font size="1">LEON MARTINEZ MARIA DE LOURDES LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J107</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1124</center></font></td>
+	                              <td><font size="1"><center>1330</center></font></td>
+	                              <td><font size="1"><center>1500</center></font></td>
+
+	                              <td><font size="1">GARCIA Y COLOME ANA GEORGINA MTRA</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I301</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1122</center></font></td>
+	                              <td><font size="1"><center>1345</center></font></td>
+	                              <td><font size="1"><center>1515</center></font></td>
+
+	                              <td><font size="1">OVANDO TREJO ROSALBA LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I206</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1125</center></font></td>
+	                              <td><font size="1"><center>1345</center></font></td>
+	                              <td><font size="1"><center>1515</center></font></td>
+
+	                              <td><font size="1">HERNANDEZ VALVERDE ARELY LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J103</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1131</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">* LEON MARTINEZ MARIA DE LOURDES LIC.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J106</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1134</center></font></td>
+	                              <td><font size="1"><center>1615</center></font></td>
+	                              <td><font size="1"><center>1745</center></font></td>
+
+	                              <td><font size="1">GOMEZ CAAMAL KITTY DEL SOCORRO LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J208</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1135</center></font></td>
+	                              <td><font size="1"><center>1615</center></font></td>
+	                              <td><font size="1"><center>1745</center></font></td>
+
+	                              <td><font size="1">LARRION GALLEGOS ARACELI ARQ.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I204</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1136</center></font></td>
+	                              <td><font size="1"><center>1745</center></font></td>
+	                              <td><font size="1"><center>1915</center></font></td>
+
+	                              <td><font size="1">GOMEZ CAAMAL KITTY DEL SOCORRO LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J207</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1137</center></font></td>
+	                              <td><font size="1"><center>1800</center></font></td>
+	                              <td><font size="1"><center>1930</center></font></td>
+
+	                              <td><font size="1">CANO SALAZAR MARIA ELENA LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I104</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1138</center></font></td>
+	                              <td><font size="1"><center>1800</center></font></td>
+	                              <td><font size="1"><center>1930</center></font></td>
+
+	                              <td><font size="1">GOMEZ RODRIGUEZ JOSE RENE LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>I105</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">1107</font></td>
+	                              <td><font size="1">CULTURA Y COMUNICACION</font></td>
+	                              <td><font size="1"><center>1142</center></font></td>
+	                              <td><font size="1"><center>2000</center></font></td>
+	                              <td><font size="1"><center>2130</center></font></td>
+
+	                              <td><font size="1">FIGUEROA BUSTOS MIGUEL LIC.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>J108</center></font></td>
+	                          </tr></table> 
+</br></br>	<center> <span class="Estilo4">Página generada en <strong>0.0138</strong> segundos</span></center>
+</center><br><center><a id='encuesta2' class='submit' clave='1107' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center>
+
+<script language="javascript">
+$('#encuesta').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+$('#encuesta2').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+
+</script>

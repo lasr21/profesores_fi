@@ -1,0 +1,427 @@
+</center><br><center><a id='encuesta' class='submit' clave='762' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center></br></br>
+<center>
+<font size="2">* El profesor impartirá un tema en inglés</font>
+</center>
+<br>
+<br>
+<center>
+	<h3> Grupos con vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>10</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+
+	                              <td><font size="1">ZERECERO GALICIA SERGIO EDUARDO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>A101</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>15</center></font></td>
+	                              <td><font size="1"><center>1800</center></font></td>
+	                              <td><font size="1"><center>2100</center></font></td>
+
+	                              <td><font size="1">MATABUENA Y CASCAJARES PEDRO TIRSO GREGORIO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>15</center></font></td>
+								 <td><font size="1"><center>A103</center></font></td>
+
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>16</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">GONZALEZ FRANCO JOSE DE JESUS ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>1</center></font></td>
+								 <td><font size="1"><center>A102</center></font></td>
+
+	                          </tr></table> <h3> Grupos sin vacantes </h3><table border="2" width="90%" bgcolor='white'><tr>
+                           <th><font size="1">CLAVE</font></th>
+                           <th><font size="1">ASIGNATURA</font></th>
+                           <th><font size="1">GRUPO</font></th>
+                           <th><font size="1">INICIO</font></th>
+                           <th><font size="1">FIN</font></th>
+                          
+                           <th><font size="1">PROFESOR(A)</font></th>
+                           <th><font size="1">LUN</font></th>
+                           <th><font size="1">MAR</font></th>
+                           <th><font size="1">MI&Eacute</font></th>
+                           <th><font size="1">JUE</font></th>
+                           <th><font size="1">VIE</font></th>
+                           <th><font size="1">SAB</font></th>
+                           <th><font size="1">TIPO</font></th>
+						   <th><font size="1">VACANTES</font></th>
+						   <th><font size="1">SALÓN</font></th>
+                           
+                      </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>2</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">MORENO MEJIA ERIC ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A102</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>19</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">CASTAÑEDA NARVAEZ CARLOS ENRIQUE M.I.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A102</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>21</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">MESSEGUER GALLY JORDI ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>5</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">RUIZ VILLEGAS SALVADOR ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>6</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">VIEJO ZUBICARAY MANUEL ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>8</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">LOPEZ DE HARO ENRIQUE ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A202</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>11</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+	                              <td><font size="1"><center>1600</center></font></td>
+
+	                              <td><font size="1">GARCIA GALVEZ GUADALUPE DALIA ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>12</center></font></td>
+	                              <td><font size="1"><center>1430</center></font></td>
+	                              <td><font size="1"><center>1730</center></font></td>
+
+	                              <td><font size="1">ZERECERO GALICIA SERGIO EDUARDO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>17</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">GONZALEZ REZA HECTOR GERARDO ING.</font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*<center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>1</center></font></td>
+	                              <td><font size="1"><center>700</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+
+	                              <td><font size="1">CARRION HERNANDEZ GUILLERMO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>3</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">TIRADO LEDESMA SERGIO M.I.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>4</center></font></td>
+	                              <td><font size="1"><center>830</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+
+	                              <td><font size="1">SANCHEZ ESPINOZA JOSE ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A103</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>7</center></font></td>
+	                              <td><font size="1"><center>1000</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+
+	                              <td><font size="1">* BUENO SORIA JUAN MANUEL DR.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A103</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>9</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">* BUENO SORIA JUAN MANUEL DR.(VER NOTA INGLES)</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A202</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>20</center></font></td>
+	                              <td><font size="1"><center>1130</center></font></td>
+	                              <td><font size="1"><center>1300</center></font></td>
+
+	                              <td><font size="1">MARTIN DEL CASTILLO CARLOS ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A103</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>14</center></font></td>
+	                              <td><font size="1"><center>1800</center></font></td>
+	                              <td><font size="1"><center>1930</center></font></td>
+
+	                              <td><font size="1">CARRANZA TORRES EDUARDO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A101</center></font></td>
+	                          </tr><tr>
+	                              <td><font size="1">762</font></td>
+	                              <td><font size="1">RECURSOS Y NECESIDADES DE MEXICO</font></td>
+	                              <td><font size="1"><center>18</center></font></td>
+	                              <td><font size="1"><center>1900</center></font></td>
+	                              <td><font size="1"><center>2030</center></font></td>
+
+	                              <td><font size="1">GONZALEZ REZA HECTOR GERARDO ING.</font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> <center></font></td>
+	                              <td><font size="1"><center>*</center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center> </center></font></td>
+	                              <td><font size="1"><center>T</center></font></td>
+								 <td><font size="1"><center>0</center></font></td>
+								<td><font size="1"><center>A102</center></font></td>
+	                          </tr></table> 
+</br></br>	<center> <span class="Estilo4">Página generada en <strong>0.0143</strong> segundos</span></center>
+</center><br><center><a id='encuesta2' class='submit' clave='762' > Consulta Encuesta </a><a class='submit' href="javascript:window.print();">Imprimir</a><a class='submit' href="http://inscripciones.fi-a.unam.mx/consulta_horarios/">Consultar otra asignatura</a> </center>
+
+<script language="javascript">
+$('#encuesta').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+$('#encuesta2').click(function (){
+	
+	if($('#encuesta').attr('clave')!=""){
+		if($('#encuesta').attr('clave').match(/^\d{2,4}$/)){
+			
+			$('#resultados').load('index.php/horarios/encuesta/'+$('#encuesta').attr('clave'));
+		}
+		else{
+			alert("La clave: "+$('#encuesta').attr('clave')+", no corresponde con el formato, favor de verificar.");
+		}
+	 	
+	}
+	else{
+		alert("Es necesario ingresar una clave de asignatura para consultar su encuesta");
+	}
+  	return false;
+});
+
+</script>
